@@ -1,0 +1,11 @@
+body{
+    background-color:antiquewhite;
+}
+.paragraph h3{
+    text-align: center;
+}
+.paragraph p{
+    text-align: right;
+    padding: 5%;
+    line-height: 1.7;
+}
